@@ -9,7 +9,7 @@
             </div>
             <div class="col-md-8 col-xs-12 pagetitle">
                 <h1>
-                    <q-icon name="star" size="35px"></q-icon> Portfolio</h1>
+                    <q-icon name="star" size="35px"></q-icon> Portfolio </h1>
             </div>
             <div class="col-md-12 col-xs-12 pagetitle">
                 <div class="row flex">

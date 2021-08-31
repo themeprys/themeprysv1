@@ -6,7 +6,7 @@
                 <h3 class="q-pb-lg">Full Stack Developer<br>based in Jakarta, Indonesia</h3>
                 <p>Experienced as a senior web developer and system administrator for various clients, startups, companies and non-profit organization in Indonesia, Malaysia, Singapore, Hongkong ect.</p>
                 <p>Strong multidisipliner background and highly skilled in content creation, UI/UX design, CMS development, search engine optimization, digital campaign, data visualization, etc by developing a wide range of technologies across multiple frameworks,
-                    software, operating systems &amp; programming language.</p>
+                    software, operating systems &amp; programming language. </p>
     
                 <p><strong>KEY SKILLS</strong></p>
                 <p>&bull; Design &amp; Content Strategy<br />&bull; Web Development and Maintenance<br />&bull; UI/UX Frontend Development<br />&bull; System Administrator/ Dev Ops<br />&bull; Search Engine Optimization<br />&bull; Digital Campaign/ Marketing<br

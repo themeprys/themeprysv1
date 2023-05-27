@@ -7,7 +7,9 @@
     "author": "pryspry <halo@pryspry.com>",
     "private": true,
     "scripts": {
-        "test": "echo \"No test specified\" && exit 0"
+        "test": "echo \"No test specified\" && exit 0",
+        "build": "quasar build",
+        "deploy": "vercel"
     },
     "dependencies": {
         "@quasar/cli": "^1.2.1",
